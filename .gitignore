@@ -1,0 +1,4 @@
+.env
+venv/
+automation.log
+__pycache__/
